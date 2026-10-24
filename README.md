@@ -1,4 +1,3 @@
-# -Coursera-Data-Analysis-Progect-in-Python-Pandas-Numpy
 # 📊 Python for Data Analysis: NumPy & Pandas Fundamentals
 
 > **Coursera Project & Hands-on Exercises**  
